@@ -9,5 +9,5 @@
 /build
 /captures
 .idea/
-gradle/
+#gradle/
 .externalNativeBuild
